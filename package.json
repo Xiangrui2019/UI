@@ -1,0 +1,25 @@
+{
+  "name": "ui",
+  "version": "1.0.0",
+  "description": "The design system that powers my applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiangrui2019/UI.git"
+  },
+  "keywords": [
+    "ui",
+    "layui",
+    "bootstrap",
+    "jquery"
+  ],
+  "author": "HomeServing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Xiangrui2019/UI/issues"
+  },
+  "homepage": "https://github.com/Xiangrui2019/UI#readme"
+}
