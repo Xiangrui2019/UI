@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/Xiangrui2019/UI/issues"
   },
-  "homepage": "https://github.com/Xiangrui2019/UI#readme"
+  "homepage": "https://github.com/Xiangrui2019/UI#readme",
+  "dependencies": {
+    "layui-src": "^2.5.5"
+  }
 }
